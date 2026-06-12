@@ -97,5 +97,4 @@ Accuracy: 68.75%
 ---
 
 ## Author
-
-Priya
+B PRIYA DHARSHINI
